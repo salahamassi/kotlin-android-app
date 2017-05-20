@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="salah">Salah</string>
+    <string name="onPause">onPause</string>
+    <string name="onDestroy">onDestroy</string>
+    <string name="onStart">onStart</string>
+    <string name="onResume">onResume</string>
+</resources>
